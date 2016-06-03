@@ -1,5 +1,5 @@
 {
-  "name": "express-es6",
+  "name": "express-es6-startkit",
   "version": "1.0.0",
   "description": "",
   "main": "dist/server.js",
@@ -8,8 +8,19 @@
     "start": "nodemon --exec babel-node src/server.js",
     "build": "babel src --out-dir dist --source-maps"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:eyesofkids/express-es6-startkit.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "boilerplate",
+    "babel",
+    "nodemon"
+  ],
+  "author": "Eddy Chang(eddy@joomla.com.tw)",
+  "license": "MIT",
   "dependencies": {
     "express": "4.13.3"
   },
