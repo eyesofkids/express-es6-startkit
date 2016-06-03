@@ -1,2 +1,2 @@
 # express-es6-startkit
-Node.js, Express for ES6 Develop Start Kit
+Node.js, Express for ES6 Start Kit
